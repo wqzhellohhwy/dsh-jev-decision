@@ -1,0 +1,5 @@
+# @local/dsh-jev-decision bundle 层：注册三个 JEV 决策工具。
+- insert:
+    - id: dsh-jev-decision
+      name: '@local/dsh-jev-decision'
+      config: {}
