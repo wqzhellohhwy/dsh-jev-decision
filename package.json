@@ -1,6 +1,6 @@
 {
   "name": "@local/dsh-jev-decision",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "type": "module",
   "description": "把基元律动的 JEV 决策模型（NeoHorse-Jev-4B）接成三个工具：jev_noul 判断概率、jev_choice 多选一、jev_score 评分。决策模型非对话模型，走 /v1/decision 专用接口。",
